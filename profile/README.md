@@ -119,9 +119,10 @@ We're "online" since 2007 and use our experience gathered over the years to leve
 
 ## Latest Blog Posts
 
+- [The Curse Of Software Knowledge](https://primalskill.blog/the-curse-of-software-knowledge)
+- [A Brief History of JavaScript Frameworks](https://primalskill.blog/a-brief-history-of-javascript-frameworks)
 - [How Photography Helped Me to Be a Better Software Engineer](https://primalskill.blog/how-photography-helped-me-to-be-a-better-software-engineer)
 - [How Do We Estimate Software Projects](https://primalskill.blog/how-do-we-estimate-software-projects)
 - [A Conversation with ChatGPT on Real-Time Comment Systems](https://primalskill.blog/a-conversation-with-chatgpt-on-real-time-comment-systems)
-- [Falsehoods in Programming](https://primalskill.blog/falsehoods-in-programming)
-- [The IKEA Effect in Software Development](https://primalskill.blog/the-ikea-effect-in-software-development)
 
+[View More Posts](https://primalskill.blog)
